@@ -3,10 +3,11 @@ Laravel E-Commerce Website with APIs
 
 ```
 -> composer install
+
 -> php artisan key:generate 
 
+-> php artisan db:seed --class=ProductSeeder
 
--> php artisan migrate:fresh --seed
 -> php artisan passport:install
 
 -> php artisan serve
@@ -16,6 +17,9 @@ Laravel E-Commerce Website with APIs
 php artisan tinker
 
 User::factory()->count(10)->create()
+
 Order::factory()->count(10)->create()
+
+exit
 
 ```
