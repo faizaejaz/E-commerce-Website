@@ -23,6 +23,14 @@ Order::factory()->count(10)->create()
 exit
 
 ```
+
+
+
+https://user-images.githubusercontent.com/52945748/167991627-653cadb5-e9a9-40a6-a48e-bc58373e2334.mp4
+
+
+
+
 ![Screen Shot 2022-05-12 at 8 54 55 AM](https://user-images.githubusercontent.com/52945748/167991125-c4463603-b3c8-42c2-9446-3cf1ab229a0a.png)
 ![Screen Shot 2022-05-12 at 8 55 36 AM](https://user-images.githubusercontent.com/52945748/167991133-01c2b13d-f48f-4696-9fc7-e77a107dea8d.png)
 ![Screen Shot 2022-05-12 at 8 56 19 AM](https://user-images.githubusercontent.com/52945748/167991139-e537044e-7b65-4be2-b53a-1e298036763b.png)
